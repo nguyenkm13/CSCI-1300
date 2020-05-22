@@ -1,0 +1,6 @@
+2,Prince Johan,600,4000,8,2
+3,Queen Callista,400,6000,1,9
+4,Pius XIII,300,7000,2,8
+5,Demitri Solas,0,10000,3,7
+6,General Khan,1000,0,9,1
+7,Salma,500,5000,5,5

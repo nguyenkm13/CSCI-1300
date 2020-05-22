@@ -1,0 +1,7 @@
+1,The Capital,2000
+2,East Crownlands,1200
+3,West Crownlands,1200
+4,Vitrusia,600
+5,Financial District,500
+6,Fort Lavitica,1500
+7,The Outlands,700

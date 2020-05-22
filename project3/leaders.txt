@@ -1,0 +1,7 @@
+1,Chief Advisor to the King,10,10,1000
+2,Eastern Regent,8,8,800
+3,Western Regent,8,8,800
+4,The Bishop,5,8,700
+5,The Merchant,6,5,800
+6,The Colonel,8,6,600
+7,The Warlord,7,7,500
